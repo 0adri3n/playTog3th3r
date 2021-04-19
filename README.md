@@ -15,6 +15,8 @@ pip install pynput
 5. Start client.py, enter informations and connect.
 6. Ready to use !
 
+<p align="center">If you don't have Python or other problem, download the .exe on the <a href="https://github.com/akira-trinity/playTog3th3r/releases">releases</a> pages.</p>
+
 #
 
 <p align="center">Open an issue if you have an error !</p>
