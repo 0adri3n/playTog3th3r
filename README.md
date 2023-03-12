@@ -1,7 +1,7 @@
 # playTog3th3r
 <p align="center">A software to share keys or clicks of a client to a server.</p>
 
-# Using
+# Installation
 
 
 1. Download the repository.
